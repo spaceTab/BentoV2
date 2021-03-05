@@ -13,5 +13,6 @@ window.onkeypress = function(event){
       document.getElementById('gm-btn').click();
       break;
   }
-
+document.getElementById('gh-btn').click();
 }
+
